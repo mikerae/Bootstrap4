@@ -174,7 +174,7 @@ body {
 
 .feature {
     text-align: center;
-    margin-bottom: 40px; 
+    margin-bottom: 40px;
 }
 
 .feature i {
@@ -191,4 +191,13 @@ body {
     font-weight: bold;
     margin-top: 10px;
     color: #f05f40;
+}
+
+/* Mailchimp */
+#mc_embed_signup {
+    padding: 0;
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 600px;
 }
